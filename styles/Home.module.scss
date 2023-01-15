@@ -1,0 +1,44 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    position: relative;
+    & .width {
+        width: 1200px;
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+        @media (orientation: portrait) {
+            width: 100vw;
+        }
+        #toggleButton {
+            width: 100%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            background-color: transparent;
+            margin-bottom: 50px;
+            &:hover {
+                background-color: rgba(0,0,0,0.2);
+            }
+            & > img {
+                vertical-align: -10%;
+            }
+        }
+        & .employeesContainer {
+            height: 700px;
+            width: 100%;
+            position: relative;
+            display: flex;
+            gap: 30px;
+            overflow: hidden;
+            margin-bottom: 200px;
+            @media (orientation: portrait) {
+                flex-direction: column;
+                height: auto;
+                // gap: 10px;
+            }
+        }
+    }
+}

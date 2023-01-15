@@ -1,0 +1,54 @@
+{
+    "hotels" : [
+        {
+            "hotelName" : "Holiday Inn",
+            "hotelImage" : "/0.jpg",
+            "countryName" : "United Kingdom"
+        },
+        {
+            "hotelName" : "Ritz Carlton",
+            "hotelImage" : "/1.jpg",
+            "countryName" : "United Kingdom"
+        },
+        {
+            "hotelName" : "Marriott",
+            "hotelImage" : "/2.jpg",
+            "countryName" : "United Kingdom"
+        },
+        {
+            "hotelName" : "Hyatt",
+            "hotelImage" : "/3.jpg",
+            "countryName" : "United Kingdom"
+        },
+        {
+            "hotelName" : "Four Seasons",
+            "hotelImage" : "/4.jpg",
+            "countryName" : "United Kingdom"
+        },
+        {
+            "hotelName" : "Belmond",
+            "hotelImage" : "/5.jpg",
+            "countryName" : "United Kingdom"
+        },
+        {
+            "hotelName" : "Peninsula",
+            "hotelImage" : "/6.jpg",
+            "countryName" : "United Kingdom"
+        },
+        {
+            "hotelName" : "Ryahd",
+            "hotelImage" : "/7.jpg",
+            "countryName" : "United Kingdom"
+        },
+        {
+            "hotelName" : "Stanley Hotel",
+            "hotelImage" : "/8.jpg",
+            "countryName" : "United Kingdom"
+        },
+        {
+            "hotelName" : "Aman Resorts",
+            "hotelImage" : "/9.jpg",
+            "countryName" : "United Kingdom"
+        }
+    ]
+}  
